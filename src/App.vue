@@ -49,17 +49,17 @@ export default {
       items: [{
         href: 'home',
         router: true,
-        title: 'Home',
+        title: 'Principal',
         icon: 'home',
       }, {
         href: 'examples',
         router: true,
-        title: 'Example',
+        title: 'Distribución Horaria',
         icon: 'extension',
       }, {
         href: 'about',
         router: true,
-        title: 'About',
+        title: 'Info',
         icon: 'domain',
       }],
     };

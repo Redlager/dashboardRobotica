@@ -17,5 +17,5 @@ npm run build
 
 ## Develop
 
-Run `npm run dev` and go to `http://localhost:8081/` to check the page. 
+Run `npm run dev` and go to `http://localhost:8080/` to check the page. 
 
